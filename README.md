@@ -9,9 +9,9 @@
 <div align="left">
 
 ## Other Stuff
-<img src="
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+<img src="982-cv-curriculum-vitae-resume.gif" width="5%"/> - :octocat: [Click Here](https://drive.google.com/file/d/1nZ1u1vrr3EdpM4VOeVZq-9Bl7m32Nw2l/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   - 
+  
 <img alt="Thanks for visiting" width="80%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=155"/> </p>

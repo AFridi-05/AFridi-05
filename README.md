@@ -13,7 +13,9 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />Dedicated to joining an ethical organization, aiming to ensure software <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Part%20Alternation%20Mark.png" alt="Part Alternation Mark" width="25" height="25" />quality and efficiency.
 - <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25" />Strong soft skills include attention to detail, effective communication, problem-solving, <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="25" height="25" />teamwork, leadership, and critical thinking.
 - <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="25" height="25" /> Passionate about technology, automobiles, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />photography, and <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />travel, eager to contribute enthusiasm and innovation to testing initiatives.
-
+- 
+<h3 align=" left"> 🛠Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 <div align="left">
 
 ## Other Stuff
@@ -26,35 +28,11 @@
 
 
 
-👋
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Shaik AFridi
-SDET </h2>
 
-![Alt Text](https://www.vskills.in/certification/blog/wp-content/uploads/2020/01/QA-Testing.jpg)
-
-<!-- ## 👋 &nbsp;Hey there! I'm Pruthvi -->
  
- <h3 align=" left">     👨🏻‍💻About Me:   </h3>
-
-♦️ A seasoned Software Development Engineer in Test (SDET).
-
-♦️ implementing automated test frameworks and strategies to ensure the quality and reliability of software products.
-
-♦️ Proficient in Test cases and test scripts.
-
-♦️ identifying test scenarios, and executing test cases to validate software functionality.
-
-♦️ Passionate about continuous learning and staying abreast of emerging technologies to enhance testing processes. 
-
-&nbsp;♦️ You can shoot me an email at afridi.shaik20497@gmail.com I'll try to respond as soon as I can.
-
-&nbsp;♦️ Please have a look at my [Résumé](https://drive.google.com/file/d/1nZ1u1vrr3EdpM4VOeVZq-9Bl7m32Nw2l/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
-<h3 align=" left"> 🛠Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<h3 align="left">🤝🏻Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pruthvi-pamula-4b5b81274/"><img src="https://img.shields.io/badge/-%20%20pruthvipamula-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pruthvigowdpamula@gmail.com"><img src="https://img.shields.io/badge/-pruthvigowdpamula@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+

@@ -18,7 +18,7 @@
 <div align="left">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Double%20Exclamation%20Mark.png" alt="Double Exclamation Mark" width="25" height="25" /> Other Stuff 
- - <img src="0_gFds75KHb2WzvGJN-_online-video-cutter.com_.gif" width="5%"/> -[Click Here](https://drive.google.com/file/d/1nZ1u1vrr3EdpM4VOeVZq-9Bl7m32Nw2l/view?usp=sharing) To view my **Resume**
+ - <img src="0_gFds75KHb2WzvGJN-_online-video-cutter.com_.gif" width="5%"/> -[Click Here](https://drive.google.com/file/d/1z-8n8RHtP3VueicBMiuag4O5ft95c9Vr/view?usp=sharing) To view my **Resume**
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
 
  <div align="center">
